@@ -1,0 +1,25 @@
+created by karthi
+
+                                                         
+                       [*|ANDROID•PAYLOADS|*]
+               
+                [01]android/meterpreter/reverse_tcp
+                [02]android/meterpreter/reverse_http
+                [03]android/meterpreter/reverse_https
+                [04]android/meterpreter/reverse_tcp_dns
+                [05]android/meterpreter/reverse_tcp_ipv6
+                [06]android/meterpreter/reverse_tcp_uuid
+                [07]android/meterpreter/reverse_tcp_multiple
+                [08]android/shell/reverse_tcp
+                
+                       [*|WINDOWS•PAYLOADS|*]
+                
+                [09]windows/meterpreter/reverse_tcp
+                [10]windows/meterpreter/reverse_http
+                [11]windows/meterpreter/reverse_https
+                [12]windows/meterpreter/reverse_tcp_dns 
+                [13]windows/meterpreter/reverse_tcp_ipv6
+                [14]windows/meterpreter/reverse_tcp_uuid
+                [15]windows/meterpreter/bind_tcp
+                [16]windows/shell/reverse_tcp
+                    
