@@ -1,9 +1,9 @@
 # PL-generator-
-You used to generate payload,but can't use this tool without metasploit,so you must install metasploit 
+You used to generate payload,but can't be use this tool without metasploit,so you must install metasploit 
 
 # installation 
 ```
-git clone https://github.com/Karthi02116K/PL-generator-.git
+git clone https://github.com/karthi-keyank/PL-generator-.git
 ```
 ```
 cd PL-generator
@@ -24,7 +24,7 @@ python msfvenom.py
 - thanks for Install
 # Solutions for comman Errors 
 - FileNotFoundError: install metasploit-framework by pkg install metasploit
-- command Error: it's your typing Error,if you want to all payload,type
+- command Error: it's your typing Error,if you want to see all payload,type
 ```
   msfvenom --list all payloads
 ```
